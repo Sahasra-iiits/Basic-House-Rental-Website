@@ -24,3 +24,6 @@ This is a **basic house rental website** designed to provide a simple and user-f
 1. Clone this repository:
    ```bash
    git clone https://github.com/Sahasra-iiits/Basic-House-Rental-Website.git
+
+## 🌟 About Me
+- I'm a passionate developer working on improving my web development skills. This project showcases my ability to create aesthetic and functional web applications.
