@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="logo">
+        <a href="index.html" class="nav"
+          ><i class="fa-solid fa-house-user"></i
+        ></a>
+        <a href="index.html" class="nav"><p>N State</p></a>
+      </div>
+      <div class="loginbox">
+        <a class="btn" href="signup.html">Sign Up</a>
+        <button id="prime"><i class="fa-solid fa-web-awesome"></i></button>
+      </div>
+    </div>
+    <div id="LoginPage">
+      <div class="details">
+        <h1 class="heading">Login To Continue</h1>
+        <p id="login-text">
+          Log in with your data that you have <br />entered during registration.
+        </p>
+        <form>
+          <div id="email">
+            <p>Enter your Email:</p>
+            <input type="text" required />
+          </div>
+          <div id="password">
+            <p>Enter your password:</p>
+            <input type="password" required />
+          </div>
+          <a id="forgot" href="">Forgot Password?</a>
+          <br />
+          <button class="btn" id="signup">Log In</button>
+          <h3 id="signup-text">Dont have an account, Then</h3>
+          <a href="signup.html" class="btn" id="signup"> Sign Up now</a>
+        </form>
+      </div>
+      <img src="Welcome.img.png" id="welcome" />
+    </div>
+    <script src="Web.js"></script>
+  </body>
+</html>
