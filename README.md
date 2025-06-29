@@ -23,4 +23,4 @@ This is a **basic house rental website** designed to provide a simple and user-f
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/house-rental-website.git
+   git clone https://github.com/Sahasra-iiits/Basic-House-Rental-Website.git
