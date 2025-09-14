@@ -68,7 +68,7 @@
   max-width: 1330px;
   margin-left: auto;
   margin-right: auto;
-  background-image: url(image.png);
+  background-image: url(/assets/image.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 330px;
